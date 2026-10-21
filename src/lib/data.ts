@@ -7,8 +7,6 @@ export const services: Service[] = [
   { id: "barba", name: "Barba Completa", description: "Toalha quente, óleo pré-barba e navalha.", price: 40, duration: 30 },
   { id: "combo", name: "Corte + Barba", description: "O ritual completo da casa.", price: 80, duration: 70 },
   { id: "degrade", name: "Degradê Navalhado", description: "Fade preciso com transição suave.", price: 60, duration: 45 },
-  { id: "sobrancelha", name: "Sobrancelha", description: "Design e alinhamento na navalha.", price: 20, duration: 15 },
-  { id: "pigmentacao", name: "Pigmentação", description: "Correção de falhas em barba ou cabelo.", price: 45, duration: 30 },
 ];
 
 export const promos: Promo[] = [
